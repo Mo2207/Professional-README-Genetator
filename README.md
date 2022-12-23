@@ -1,8 +1,16 @@
-{
-	"title": "g",
-	"description": "g",
-	"installation": "g",
-	"usage": "g",
-	"contribution": "g",
-	"test": "g"
-}
+TEST PROJECT
+
+Description:
+this is just a test description
+    
+Installation:
+none
+    
+Usage:
+none
+    
+Contributing:
+none
+    
+Tests:
+none

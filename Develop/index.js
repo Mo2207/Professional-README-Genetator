@@ -27,7 +27,7 @@ inquirer
     },
     {
       type: 'input',
-      name: 'contribution',
+      name: 'contributions',
       message: `Enter your project's contribution guidelines.`
     },
     {
@@ -37,11 +37,28 @@ inquirer
     }
   ])
   .then((data) => {
-    // console.log(data)
-
+    console.log(data)
+    // filename will always be README.md
     const filename = 'README.md';
+    
+    const fileContent = `${data.title.toUpperCase()}
 
-    fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+Description:
+${data.description}
+    
+Installation:
+${data.installation}
+    
+Usage:
+${data.usage}
+    
+Contributing:
+${data.contributions}
+    
+Tests:
+${data.test}`
+
+    fs.writeFile(filename, fileContent, (err) =>
       err ? console.log(err) : console.log('Success!')
     );
   })
