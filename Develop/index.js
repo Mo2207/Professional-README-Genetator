@@ -41,21 +41,21 @@ inquirer
     // filename will always be README.md
     const filename = 'README.md';
     
-    const fileContent = `${data.title.toUpperCase()}
+    const fileContent = `# ${data.title.toUpperCase()}
 
-Description:
+## Description:
 ${data.description}
     
-Installation:
+## Installation:
 ${data.installation}
     
-Usage:
+## Usage:
 ${data.usage}
     
-Contributing:
+## Contributing:
 ${data.contributions}
     
-Tests:
+## Tests:
 ${data.test}`
 
     fs.writeFile(filename, fileContent, (err) =>
