@@ -1,19 +1,34 @@
-# G
+# MY TEST PROJECT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-g
-    
+## Description: 
+A test project to see if i know what im doing yet.
+
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
+[License](#license)
+
 ## Installation:
-g
+just clone it
     
 ## Usage:
-g
+nothing to say here
     
 ## Contributing:
-g
+i built this myself
     
 ## Tests:
-g
+no instructions yet
+
+## Questions
+My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
+https://github.com/Mo2207
+
+If you have any questions about this application, you can contact me via email: 
+[Contact me](mailto:gabemorris1042@gmail.com)
 
 ## License:
-MIT
+This application is covered under the MIT license

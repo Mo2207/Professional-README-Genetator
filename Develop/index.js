@@ -36,6 +36,16 @@ inquirer
       message: `Please provide test instructions for your project.`
     },
     {
+      type: 'input',
+      name: 'email',
+      message: 'Please enter your email.'
+    },
+    {
+      type: 'input',
+      name: 'github',
+      message: 'Please enter your Github username.'
+    },
+    {
       type: 'list',
       name: 'license',
       message: 'Please select a license for your project:',
@@ -71,11 +81,19 @@ inquirer
 
     // Write to the file in Markdown format
     const fileContent = 
-`# ${data.title.toUpperCase()}
+`# ${data.title.toUpperCase()} ${setBadge}
 
-## Description: ${setBadge}
+## Description: 
 ${data.description}
-    
+
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
+[License](#license)
+
 ## Installation:
 ${data.installation}
     
@@ -88,16 +106,20 @@ ${data.contributions}
 ## Tests:
 ${data.test}
 
+## Questions
+My Github username is ${data.github}, here is a link to my profile if you want to check out more of my work: 
+https://github.com/${data.github}
+
+If you have any questions about this application, you can contact me via email: 
+[Contact me](mailto:${data.email})
+
 ## License:
-${data.license}`
+This application is covered under the ${data.license} license`
 
     fs.writeFile(filename, fileContent, (err) =>
       err ? console.log(err) : console.log('Success!')
     );
   })
-
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {}
