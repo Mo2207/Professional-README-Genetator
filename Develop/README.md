@@ -1,7 +1,7 @@
-# TEST [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+# GABES README GENERATOR [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description: 
-f
+a README generator for your project using inquirer
 
 ## Table of Contents
 [Installation](#installation)
@@ -12,16 +12,16 @@ f
 [License](#license)
 
 ## Installation:
-f
+you can clone the repo to use it
     
 ## Usage:
-f
+no relevant info at the moment
     
 ## Contributing:
-f
+I built this myself
     
 ## Tests:
-f
+no test instructions at the moment
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
@@ -31,4 +31,4 @@ If you have any questions about this application, you can contact me via email:
 [Contact me](mailto:gabemorris1042@gmail.com)
 
 ## License:
-This application is covered under the GPLv2 license
+This application is covered under the Mozilla license
