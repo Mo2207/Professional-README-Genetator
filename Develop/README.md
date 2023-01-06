@@ -1,7 +1,7 @@
 # GABES README GENERATOR [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description: 
-a README generator for your project using inquirer
+a README generator using inquirer
 
 ## Table of Contents
 [Installation](#installation)
@@ -12,16 +12,16 @@ a README generator for your project using inquirer
 [License](#license)
 
 ## Installation:
-you can clone the repo to use it
+clone the repo
     
 ## Usage:
-no relevant info at the moment
+example text here
     
 ## Contributing:
 I built this myself
     
 ## Tests:
-no test instructions at the moment
+example text here
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
