@@ -1,7 +1,8 @@
 # MY TEST PROJECT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description: 
-A test project to see if i know what im doing yet.
+-This project is a README generator using inquirer to prompt the user for input they want displayed.
+-My motivation for this project was to creat an easier and faster way to create README files for my repo's.
 
 ## Table of Contents
 [Installation](#installation)
@@ -12,16 +13,16 @@ A test project to see if i know what im doing yet.
 [License](#license)
 
 ## Installation:
-just clone it
+This repo can be cloned for use.
     
 ## Usage:
-nothing to say here
+Run index.js in the terminal to begin the inquirer prompts for your README.
     
 ## Contributing:
-i built this myself
+I built this myself.
     
 ## Tests:
-no instructions yet
+There is a tutorial video provided here: [![Watch the video](/README%20Generator%20Tutorial.webm))
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
