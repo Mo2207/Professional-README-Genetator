@@ -22,7 +22,6 @@ This repo can be cloned for use.
 Run index.js in the terminal to begin the inquirer prompts for your README.
 !["README prompts"](/images/READMEprompts.png)
 !["README licenses"](/images/READMElicenses.png)
-!["README"](/images/READMEexample.png)
     
 ## Contributing:
 I built this myself.
