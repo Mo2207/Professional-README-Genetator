@@ -60,7 +60,7 @@ inquirer
     }
   ])
   .then((data) => {
-    console.log(data)
+    // console.log(data)
 
     // filename will always be README.md
     const filename = 'README.md';
@@ -74,8 +74,10 @@ inquirer
       Mozilla: '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)',
       BSD3Clause: '[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)' 
     }
+
     // Selects the users chosen license
     let chosenLicense = data.license
+
     // Assigns the chosen license a badge from licenses
     let setBadge = licenses[chosenLicense];
 
@@ -117,12 +119,7 @@ If you have any questions about this application, you can contact me via email:
 This application is covered under the ${data.license} license`
 
     fs.writeFile(filename, fileContent, (err) =>
-      err ? console.log(err) : console.log('Success!')
+      err ? console.log(err) : console.log('README created!')
     );
   })
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
+  
