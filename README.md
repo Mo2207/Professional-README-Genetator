@@ -22,7 +22,7 @@ Run index.js in the terminal to begin the inquirer prompts for your README.
 I built this myself.
     
 ## Tests:
-There is a tutorial video provided here: [![Watch the video](/README%20Generator%20Tutorial.webm))
+There is a tutorial video provided here: [![Watch the video](https://mega.nz/file/MQBBjBZT#IINrZwMiuqn23y8Uhi7DgHmXmtuGnx4BcEj9niSZbbI)
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
