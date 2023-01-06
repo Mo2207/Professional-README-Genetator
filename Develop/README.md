@@ -1,7 +1,7 @@
 # GABES README GENERATOR [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description: 
-a README generator using inquirer
+A README generator using inquirer
 
 ## Table of Contents
 [Installation](#installation)
@@ -15,13 +15,13 @@ a README generator using inquirer
 clone the repo
     
 ## Usage:
-example text here
+none currently
     
 ## Contributing:
-I built this myself
+I built this myself.
     
 ## Tests:
-example text here
+The README can be generated after running node index.js
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
