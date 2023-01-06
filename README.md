@@ -28,7 +28,7 @@ Run index.js in the terminal to begin the inquirer prompts for your README.
 I built this myself.
     
 ## Tests:
-There is a tutorial video provided here: [![Watch the video](https://mega.nz/file/MQBBjBZT#IINrZwMiuqn23y8Uhi7DgHmXmtuGnx4BcEj9niSZbbI)]
+There is a tutorial video provided here: https://user-images.githubusercontent.com/77298755/211058004-708494b9-dfb5-48dc-8b60-b62a75764e23.mp4
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
