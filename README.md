@@ -2,7 +2,10 @@
 
 ## Description: 
 -This project is a README generator using inquirer to prompt the user for input they want displayed.
+
 -My motivation for this project was to creat an easier and faster way to create README files for my repo's.
+
+-Making this project I learned how to use inquirer to prompt for user input in the terminal, and then to write that input to a file.
 
 ## Table of Contents
 [Installation](#installation)
@@ -17,12 +20,15 @@ This repo can be cloned for use.
     
 ## Usage:
 Run index.js in the terminal to begin the inquirer prompts for your README.
+!["README prompts"](/images/READMEprompts.png)
+!["README licenses"](/images/READMElicenses.png)
+!["README"](/images/READMEexample.png)
     
 ## Contributing:
 I built this myself.
     
 ## Tests:
-There is a tutorial video provided here: [![Watch the video](https://mega.nz/file/MQBBjBZT#IINrZwMiuqn23y8Uhi7DgHmXmtuGnx4BcEj9niSZbbI)
+There is a tutorial video provided here: [![Watch the video](https://mega.nz/file/MQBBjBZT#IINrZwMiuqn23y8Uhi7DgHmXmtuGnx4BcEj9niSZbbI)]
 
 ## Questions
 My Github username is Mo2207, here is a link to my profile if you want to check out more of my work: 
